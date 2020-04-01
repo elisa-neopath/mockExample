@@ -1,0 +1,14 @@
+{
+  "name": "mockexample",
+  "version": "1.0.0",
+  "description": "",
+  "main": "mockExample.js",
+  "scripts": {
+    "test": "jest"
+  },
+  "author": "",
+  "license": "ISC",
+  "devDependencies": {
+    "jest": "^25.2.4"
+  }
+}
